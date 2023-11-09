@@ -7,3 +7,7 @@ Notes and practice during ESIIL hackaton 2023 - week 3
 https://pystac.readthedocs.io/en/stable/index.html
 
 https://pystac.readthedocs.io/en/stable/tutorials/how-to-read-data-from-stac.html
+
+Most used python packages for machine learning: 
+sklearn 
+pytorch
