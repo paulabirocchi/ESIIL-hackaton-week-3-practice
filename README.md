@@ -11,3 +11,6 @@ https://pystac.readthedocs.io/en/stable/tutorials/how-to-read-data-from-stac.htm
 Most used python packages for machine learning: 
 sklearn 
 pytorch
+
+
+TSNE = unsupervised machine learning in sklearn
